@@ -9,5 +9,5 @@ int main(){
     hours = (int) x/10;
     hours /= 3;
     mins = (int) x / 6;
-    printf("%d:%d", hours, mins);
+    printf(" %d:%d ", hours, mins);
 }
