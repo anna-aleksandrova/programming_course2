@@ -221,7 +221,7 @@ unsigned long long subfactorial(unsigned int n) {
         return 0;
     }
     else {
-        return n * subfactorial(n - 1) + pow((-1), n);
+        return n * subfactorial(n - 1) + 1 - 2 * (n % 2);
     }
 }
 
