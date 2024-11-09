@@ -1,0 +1,5 @@
+Thompson 3 mathematics 91,92,99,100
+Thomas 4 mechanics 93,94,100,100
+Williams 2 mathematics 90,95,98,85
+Green 1 computer_mathematics 100,100,99,100
+Blue 2 computer_mathematics 100,100,100,100
