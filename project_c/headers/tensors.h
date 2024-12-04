@@ -8,7 +8,7 @@
  * @param data_type encodes one of C basic arithmetic types
  * @param power represents the number of dimensions
  * @param shape represents the size of every dimension
- * @param data_<spec> contains the data of a certain type (for dimension == 1)
+ * @param data_<spec> contains the data of a certain type
  */
 typedef struct Tensor{
     unsigned char first_byte, second_byte;
